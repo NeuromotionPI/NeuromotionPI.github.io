@@ -1,0 +1,105 @@
+ENLACE GitHub donde debe ir todo
+
+https://github.com/NeuromotionPI
+
+email:
+manayal@academia.usbbog.edu.co
+
+clave:
+MARIAmercedes1961
+
+*****************************
+
+PALETA DE COLORES
+
+#233dff
+#031522
+#db1643
+y blanco
+
+******************************
+
+1- TITULO:
+
+NeuroMotion | Bipolar Mood Tracker
+
+*****************
+
+2- BANNER
+
+ANEXAR ESTA MINI INTRODUCCIÓN
+
+Las tecnologías de última generación se están introduciendo deforma exponencial en el mundo de la salud en general. Asimismo, lautilidad de las apps para el campo de la Salud Mental está siendobastante prometedora y varios estudios indican que puedenconvertirse en potentes herramientas en el manejo de pacientes conTrastorno Afectivo Bipolar (TAB).
+
+
+***************
+
+3. REDES SOCIALES (links están en el github)
+
+- poner iconos de instagram, linkedin y facebook que direccionen a las redes sociales
+
+
+***************
+
+4- EXPLICAR LA LITERATURA QUE DEJARÉ POR ACÁ COPIADA COMO SALE EN EL SHAREPOINT
+
+¿QUÉ ES EL TRASTORNO AFECTIVO BIPOLAR?
+
+El trastorno afectivo bipolar (TAB) es un trastorno del estado de ánimo que se caracteriza por una oscilación extrema que va desde la elevación de los estados maníacos, hasta las depresiones más profundas. Es un trastorno mental crónico, grave, recurrente e incapacitante. Se caracteriza básicamente por episodios de depresión, manía o hipomanía, y ambos estados se presentan de modo extremo. Hay periodos de recuperación de la normalidad (eutimia), y periodos de recaída.
+
+************
+
+TIPOS DE TRASTORNO AFECTIVO BIPOLAR
+
+El trastorno afectivo bipolar (TAB) se distingue por tres (3) grandes grupos; TAB tipo I, TAB tipo II y trastorno ciclotímico. El tipo I se caracteriza por la existencia de uno o varios episodios maníacos, el tipo II se caracteriza por la existencia de episodios depresivos mayores junto con episodios hipomaníacos y el trastorno ciclotímico se caracteriza por una alteración del estado de ánimo crónica y con fluctuaciones.
+
+*************
+
+TRATAMIENTOS PARA EL TRASTORNO AFECTIVO BIPOLAR
+
+Psicoeducación
+Adherencia al tratamiento
+Detección de los detonantes
+Estilos de vida saludable
+Control y manejo del estrés
+​​​​​​​Control de ideas suicidas
+Relaciones de pareja y familiares
+Tratamiento de depresión y manía
+
+
+**************
+
+5- ANEXAR EL MOCK-UP QUE ESTÁ EN LOS ARCHIVOS
+
+***************
+
+6- ANEXAR OBJETIVOS CON IMAGENES DECORANDO EN CADA UNO ESTÁN EN LOS ARCHIVOS
+
+OBJETIVO GENERAL
+
+Crear una aplicación que ayudea los pacientes con TrastornoAfectivo Bipolar (TAB).
+
+
+OBJETIVOS ESPECÍFICOS
+
+Identificar los requerimientos técnicos mediante levantamiento de información con el finde ajustar las condiciones para el desarrollo de la aplicación.
+
+Desarrollar el dashboard de visualización para paciente y especialista a través del uso debases de datos y GUI.
+
+Validar el aplicativo para que sea funcional mediante la prueba piloto del paciente y elespecialista en salud mental.
+
+***************
+
+7- VENDRÍA LA TABLA CON LA CONSULTA DE SQL
+(te mando el link de colab y la tabla el lunes tipo 10pm)
+
+****************
+
+8- LOGO DE LA UNIVERSIDAD EN LA PARTE INFERIOR
+(está en los archivos)
+
+THAT'S ALL FOLKS
+GRACIAS
+
+
+
